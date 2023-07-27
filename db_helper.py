@@ -5,7 +5,7 @@ def get_db_cursor():
     db = mysql.connector.connect(
         host="localhost",
         user="root",
-        password="themanonfire",
+        password="XXX",
         database="college_schema"
     )
 
